@@ -41,3 +41,8 @@
   * [图像处理指南](/图像处理/picture_processing.md)
 * 学术论文
   * [学术论文指南](/学术论文/academic_paper.md)
+* slam
+  * [cartographer安装与运行](/slam/cartographer.md)
+  * [cartographer_ros代码入门](slam/cartographer_ros代码入门.md)
+  * [test](slam/test.md)
+  * [test1](slam/test2.md)
